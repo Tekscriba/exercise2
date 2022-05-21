@@ -1,0 +1,1 @@
+As part of the exercise for "deleting and renaming files"
